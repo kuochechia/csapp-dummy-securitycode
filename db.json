@@ -1,0 +1,29 @@
+{
+  "getSecurityCodeSetting": {
+     "ret_code":"0",
+     "errMsg":"",
+     "lock_time":null,
+     "unlock_time":null
+  },
+  "saveOrUpdateSecurityCode": {
+     "ret_code": "0",
+     "errMsg": ""
+  },
+  "verifySecurityCode": {
+     "ret_code":"0",
+     "errMsg":"",
+     "lock_time":"2024-08-12 18:21:36",
+     "unlock_time":"2024-08-12 18:31:36",
+     "number_errors": 5
+  },
+  "setSecurityCodeLockTime": {
+     "ret_code":"0",
+     "errMsg":"",
+     "lock_time":"2024-08-12 18:21:36",
+     "unlock_time":"2024-08-12 18:31:36"
+  },
+  "forgetPasswordVerify": {
+     "ret_code": "0",
+     "errMsg": ""
+  }
+}
